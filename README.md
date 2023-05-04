@@ -1,8 +1,8 @@
-# **ProjectsHut - Show your projects to the world 🌎🌈**
+# **ProjectsHut - Share your projects to the world 🌎🌈**
 
 [![pages-build-deployment](https://github.com/priyankarpal/ProjectsHut/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/priyankarpal/ProjectsHut/actions/workflows/pages/pages-build-deployment) [![Open in GitPod](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/priyankarpal/ProjectsHut) ![Checks Success](https://badgen.net/github/checks/node-formidable/node-formidable) [![MIT](https://badgen.net/badge/license/MIT/blue)](https://github.com/priyankarpal/ProjectsHut/blob/main/LICENSE)
 
-![projectshut](https://user-images.githubusercontent.com/88102392/234469385-a939ac7c-04b2-4e42-9a39-a86d5fd4672f.png)
+![projectshut](https://user-images.githubusercontent.com/88102392/235369195-189ad8cd-31df-4099-8b99-3efac3056651.png)
 
 ## 🤓 Why ProjectsHut ?
 
@@ -59,6 +59,10 @@ By doing so, you can help to make the project more accessible to people who spea
 - [한국인](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/Korean)
 - [Española](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/Spanish)
 - [தமிழ்](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/Tamil)
+- [German](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/German)
+- [Italiano](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/Italian)
+- [Japanese](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/Japanese)
+- [French](https://github.com/priyankarpal/ProjectsHut/tree/main/translations/French)
 
 ## 🤝 Contributors
 

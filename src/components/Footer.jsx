@@ -6,7 +6,11 @@ export default function Footer() {
   const bgColor = theme.mode === "dark" ? theme.navbar.background : theme.background
 
   return (
-    <footer aria-label="Site Footer" className="bg-white dark:bg-gray-900" style={{ backgroundColor: bgColor }}>
+    <footer
+      aria-label="Site Footer"
+      className="bg-white dark:bg-gray-900"
+      style={{ backgroundColor: bgColor, borderRadius: "10px" }}
+    >
       <div className="max-w-screen-xl px-4 pt-16 pb-8 mx-auto sm:px-6 lg:px-8 lg:pt-24">
         <div className="text-center">
           <h2 className="text-3xl font-extrabold  sm:text-5xl mb-4">Built for collaboration 🤝</h2>
